@@ -24,10 +24,10 @@ font-size: 30px;
 font-weight: 400;
 display: block;
 
-
-
 @media screen and (min-width: 1024px) {
-container frase {
-padding-left: 5em;
-font-size: 20px;
-display: block; }
+       .container .frase {
+        padding-left: 5em;
+        font-size: 20px;
+        display: block;
+    }
+}
